@@ -1,0 +1,45 @@
+ @font-face {
+            font-family: 'Righteous';
+            src: url(../font/Righteous-Regular.ttf);
+        }
+
+        body {
+           background-image: url(../img/bg3.jpg);
+           /* Center and scale the image nicely */
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        #main  {
+            background-color: #dee2e6;
+            margin-bottom: 10px;
+        }
+
+        .navbar-brand {
+            font-family: 'Righteous', cursive;
+            font-size: 21px;
+        }
+          .carousel-inner > .carousel-item > img {
+          width:500px;
+          height:410px;
+        }
+        
+        .main-content {
+            background-color: white;
+            margin-top: 50px;
+            padding-bottom: 10px;
+        }
+
+        .head-content {
+            margin  :15px;
+        }
+
+        .post {
+            margin  :15px;
+        }
+
+        footer {
+            margin-top: 50px;
+            text-align: center;
+        }
