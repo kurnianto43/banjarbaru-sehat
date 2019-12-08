@@ -30,7 +30,7 @@
                 <a class="nav-link" href="?page=buku_tamu">Buku Tamu</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Peta Situs</a>
+                <a class="nav-link" href="?page=peta_situs">Peta Situs</a>
               </li>
             </ul>
             <form class="form-inline my-2 my-lg-0">
