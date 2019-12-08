@@ -1,5 +1,5 @@
 <div class="row">
-    <div class="col-md-9">
+    <div class="col-lg-9 col-md-8 col-sm-8">
         <div style="margin-top: 30px" class="card">
             <h5 class="card-header">Buku Tamu</h5>
             <div class="card-body">
@@ -40,7 +40,7 @@
             </div>
         </div>
     </div>
-    <div class="col-md-3">
+    <div class="col-lg-3 col-md-4 col-sm-4">
         <div style="margin-top: 30px" class="card">
             <div class="card-body">
                 <ul class="list-unstyled">
