@@ -1,9 +1,9 @@
-<div class="profil" style="background-color: white; margin-top: 30px">
+<div class="profil" style="background-color: white; margin-top: 30px;">
     <div class="row" style="padding: 10px">
         <div class="col-lg-4 col-md-3 col-sm-3">
-            <img width="100%" src="img/post.jpg" alt="">
+            <img width="100%" style="border-radius: 25%" src="img/profil.jpg" alt="">
         </div>
-        <div class="col-lg-8 col-md-9 col-sm-9">
+        <div style="margin-bottom: 20px" class="col-lg-8 col-md-9 col-sm-9">
             <h3>ASSALAMUALAIKUM, SAYA <span style="color: #28a745">DYAH DWI HANDAYANI</span></h3>
             <h6>Mahasiswa, Web Developer & Web Designer</h6>
             <hr>
